@@ -1,0 +1,131 @@
+# Локалізація шейдера Neonium для Minecraft
+
+# Назва шейдера
+shader.neonium.name=Neonium
+
+# Опис шейдера
+shader.neonium.description=Шейдер, що надає грі стиль неонових кольорів з ефектами блуму, сканлайнів та іншими ефектами, створюючи атмосферу ретро-футуризму.
+
+# --------------------- НЕОНОВІ НАЛАШТУВАННЯ ---------------------
+
+# Неонова палітра
+neon.palette.name=Неонова палітра
+neon.palette.description=Активує неонову палітру з насиченими синіми, фіолетовими та рожевими відтінками.
+
+# Налаштування неону
+neon.saturation.name=Насиченість неону
+neon.saturation.description=Регулює насиченість неонових кольорів.
+
+neon.hue.name=Відтінок неону
+neon.hue.description=Змінює загальний відтінок неону, дозволяючи створити різноманітні кольорові ефекти.
+
+neon.brightness.name=Яскравість неону
+neon.brightness.description=Регулює яскравість неонових кольорів, створюючи яскравіші або темніші ефекти.
+
+# --------------------- БЛУМ (Bloom) ---------------------
+
+# Ефект блуму
+bloom.name=Блум (Bloom)
+bloom.description=Додає ефект світіння для яскравих об'єктів, створюючи ефект розмитого світла.
+
+# Параметри блуму
+bloom.threshold.name=Поріг блуму
+bloom.threshold.description=Налаштування порогу яскравості об'єктів для застосування ефекту блуму.
+
+bloom.strength.name=Сила блуму
+bloom.strength.description=Регулює інтенсивність ефекту блуму; чим вище значення, тим сильніше світіння.
+
+bloom.radius.name=Радіус блуму
+bloom.radius.description=Визначає радіус поширення світіння навколо яскравих об'єктів.
+
+# --------------------- СКАНЛАЙНИ (Scanlines) ---------------------
+
+# Сканлайни
+scanlines.name=Сканлайни
+scanlines.description=Додає ефект горизонтальних смуг, як на старих телевізорах CRT.
+
+# Параметри сканлайнів
+scanlines.intensity.name=Інтенсивність сканлайнів
+scanlines.intensity.description=Регулює яскравість і контрастність сканлайнів.
+
+scanlines.frequency.name=Частота сканлайнів
+scanlines.frequency.description=Змінює частоту смуг, контролюючи щільність сканлайнів.
+
+# --------------------- ВІНЬЄТКА ТА ХРОМАБЕРРАЦІЯ ---------------------
+
+# Виньєтка
+vignette.name=Виньєтка
+vignette.description=Створює ефект затемнення по краях екрана, надаючи ефект сфокусованого погляду.
+
+# Параметри виньєтки
+vignette.strength.name=Сила виньєтки
+vignette.strength.description=Регулює силу ефекту затемнення країв.
+
+vignette.size.name=Розмір виньєтки
+vignette.size.description=Контролює розмір області, на яку впливає ефект виньєтки.
+
+# Хромаберрація
+chromaberation.name=Хромаберрація
+chromaberation.description=Створює райдужне спотворення на межах зображення, додаючи незвичайні кольорові спотворення.
+
+# Параметри хромаберрації
+chromaberation.intensity.name=Інтенсивність хромаберрації
+chromaberation.intensity.description=Регулює інтенсивність райдужних спотворень на екрані.
+
+# --------------------- ХВИЛІ (Wave Distortion) ---------------------
+
+# Хвилі
+wave.distortion.name=Хвилі
+wave.distortion.description=Створює хвилясті спотворення, імітуючи ефект спеки в повітрі.
+
+# Параметри хвиль
+wave.frequency.name=Частота хвиль
+wave.frequency.description=Контролює кількість хвиль на екрані.
+
+wave.amplitude.name=Амплітуда хвиль
+wave.amplitude.description=Регулює силу та розмір хвиль, змінюючи їх виразність.
+
+# --------------------- ГЛІТЧ-ЕФЕКТИ ---------------------
+
+# Глітч-ефекти
+glitch.name=Глітч-ефекти
+glitch.description=Додає короткочасні збої або артефакти на екрані, створюючи ефект поломки.
+
+# Параметри глітч-ефектів
+glitch.frequency.name=Частота глітчів
+glitch.frequency.description=Регулює частоту появи глітч-ефектів.
+
+glitch.intensity.name=Інтенсивність глітчів
+glitch.intensity.description=Контролює силу прояву глітч-ефектів.
+
+glitch.duration.name=Тривалість глітчів
+glitch.duration.description=Змінює тривалість появи глітч-ефектів.
+
+# --------------------- ГЛИБОКА НІЧ ---------------------
+
+# Глибока ніч
+nightmode.name=Глибока ніч
+nightmode.description=Створює нічну атмосферу з темними тонами та яскравими акцентами світла.
+
+# Параметри нічного режиму
+nightmode.intensity.name=Інтенсивність нічного режиму
+nightmode.intensity.description=Регулює темряву навколишнього світу в нічному режимі.
+
+nightmode.light_accents.name=Світлові акценти
+nightmode.light_accents.description=Включає яскраві світлові акценти в темних місцях.
+
+nightmode.light_intensity.name=Інтенсивність світлових акцентів
+nightmode.light_intensity.description=Змінює силу світлових акцентів на темних ділянках.
+
+# --------------------- LOW-RES FX ---------------------
+
+# Low-Res ефекти
+lowres.name=Low-Res ефекти
+lowres.description=Додає піксельні та розмиті текстури, як на старих відео.
+
+# Параметри Low-Res
+lowres.intensity.name=Інтенсивність Low-Res
+lowres.intensity.description=Регулює інтенсивність розмиття та пікселізації.
+
+lowres.size.name=Розмір пікселів
+lowres.size.description=Контролює розмір "пікселів" у розмитих текстурах.
